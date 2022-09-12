@@ -1,0 +1,19 @@
+{
+  "name": "geauxbluenola",
+  "version": "1.0.0",
+  "description": "Website for the Geaux Blue NOLA project, dedicated to the New Orleans Police Department, as well as the donors and councilpersons who make good policing possible in the city of New Orleans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dominicclust/geauxblueNOLA.git"
+  },
+  "author": "Dominic Clust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominicclust/geauxblueNOLA/issues"
+  },
+  "homepage": "https://github.com/dominicclust/geauxblueNOLA#readme"
+}
